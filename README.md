@@ -1,8 +1,5 @@
-# React + Vite
+NASA API Test
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is using NASA API to fetch the daily image from NASA with all the details. 
+It has been created with left menu and loading screen. You can check the NASA circulated picture which is getting changed on a daily basis
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
